@@ -19,10 +19,6 @@
   },
   "dependencies": {
     "buchta": "^0.5.100",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "svelte": "^4.1.1",
-    "vixeny": "^0.0.681",
-    "vue": "^3.3.4"
+    "vixeny": "^0.0.681"
   }
 }
