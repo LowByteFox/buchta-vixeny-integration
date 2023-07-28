@@ -1,0 +1,28 @@
+{
+  "name": "buchta-vixeny-integration",
+  "version": "0.1.0",
+  "description": "Integration of Buchta into Vixeny",
+  "module": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fire-The-Fox/buchta-vixeny-integration.git"
+  },
+  "type": "module",
+  "author": "Fire-The-Fox",
+  "contributors": ["Ján Gajdoš <gajdos.jan77@gmail.com>"],
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "buchta": "^0.5.100",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "svelte": "^4.1.1",
+    "vixeny": "^0.0.681",
+    "vue": "^3.3.4"
+  }
+}
